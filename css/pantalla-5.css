@@ -40,10 +40,6 @@ nav > img {
   padding: 10px;
 }
 
-.fa-headphones {
-  padding-top: 15px;
-}
-
 .song > h2 {
   color: #FFFFFF;
 }
@@ -81,7 +77,7 @@ nav > img {
   background-color: #536690;
   border: 1px solid #FFF;
   border-radius: 20px;
-  height: 150px;
+  height: 100px;
   margin-top: 20px
 }
 
